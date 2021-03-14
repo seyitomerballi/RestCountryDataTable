@@ -1,5 +1,5 @@
 # Fintech Yazilim Project
-![Alt text](dist/img/screenshot.png "Örnek Ekran Görüntüsü")
+![Alt text](public/img/screenshot.png "Örnek Ekran Görüntüsü")
 ##### Projeyi yükle
 ```
 npm install
