@@ -8,7 +8,7 @@
         <th>
           <input type="text" v-model="searchData.searchByNameData" @keyup="emitToParent(searchData)"
                  class="form-control form-control-sm"
-                 placeholder="Başkente göre ara...">
+                 placeholder="Ülke adına göre ara...">
         </th>
         <th>
           <input type="text" v-model="searchData.searchByCapitalData" @keyup="emitToParent(searchData)"

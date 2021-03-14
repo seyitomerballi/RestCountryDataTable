@@ -3,7 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png" class="logo">
     <div class="row">
       <div class="col col-3">
-        <input type="text" v-model="search" class="form-control" placeholder="Tüm tabloda ara...">
+        <input type="text" v-model="search" class="form-control" placeholder="Tüm JSON verisinde ara...">
       </div>
     </div>
     <div class="row my-2">
